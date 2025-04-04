@@ -1,11 +1,11 @@
 {
-    "name": "Nxtin",
-    "short_name": "Nxtin",
+    "name": "restaurant_dashboard",
+    "short_name": "restaurant_dashboard",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "X Management Tool",
+    "description": "A new Flutter project.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
