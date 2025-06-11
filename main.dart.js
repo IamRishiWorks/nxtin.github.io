@@ -91654,7 +91654,7 @@ A.kR.prototype={}
 A.dW.prototype={}
 A.ns.prototype={}
 A.a35.prototype={
-a3N(){var s,r=A.af(["Content-Type","application/json"],t.N,t.z),q=A.aQw("",A.da(0,0,30),r,A.da(0,0,30))
+a3N(){var s,r=A.af(["Content-Type","application/json"],t.N,t.z),q=A.aQw("https://api.qulfox.com",A.da(0,0,30),r,A.da(0,0,30))
 r=new A.Ou(A.b([B.Co],t.i6))
 s=new A.a6A($,r,$,new A.aa4(51200),!1)
 s.Vv$=q
