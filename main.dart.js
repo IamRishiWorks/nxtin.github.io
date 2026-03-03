@@ -102387,7 +102387,7 @@ A.m2.prototype={}
 A.cM.prototype={}
 A.p0.prototype={}
 A.a8u.prototype={
-a7m(){var s,r=A.a9(["Content-Type","application/json"],t.N,t.z),q=A.b09("https://api.mozocar.com",A.dj(0,0,30),r,A.dj(0,0,30))
+a7m(){var s,r=A.a9(["Content-Type","application/json"],t.N,t.z),q=A.b09("https://mozocar-prod-api-942167750664.asia-south1.run.app",A.dj(0,0,30),r,A.dj(0,0,30))
 r=new A.St(A.b([B.E8],t.i6))
 s=new A.abS($,r,$,new A.afG(51200),!1)
 s.Yy$=q
